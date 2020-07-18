@@ -1,0 +1,7 @@
+"2020-05-24 21:25:35 - [main]  INFO  c.p.s.l.a.SpringBootLoggingApplication - Starting SpringBootLoggingApplication on ITEM-S24309 with PID 10744 (C:\FEX_WorkSpace\Practice\spring-boot-logging\target\classes started by ajaiswal in C:\FEX_WorkSpace\Practice)
+""2020-05-24 21:25:35 - [main]  DEBUG c.p.s.l.a.SpringBootLoggingApplication - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+""2020-05-24 21:25:35 - [main]  INFO  c.p.s.l.a.SpringBootLoggingApplication - No active profile set, falling back to default profiles: default
+""2020-05-24 21:25:37 - [main]  INFO  c.p.s.l.a.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 1.838 seconds (JVM running for 2.503)
+""2020-05-24 21:25:41 - [http-nio-8081-exec-1]  DEBUG c.p.s.l.a.SpringBootLoggingApplication - Input aman
+""2020-05-24 21:25:41 - [http-nio-8081-exec-1]  DEBUG c.p.s.l.a.SpringBootLoggingApplication - Output Hi amankeep practicing spring boot
+"
